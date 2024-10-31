@@ -1,2 +1,2 @@
 # myfirstproject
-just this repository for leaning git :)
+just this repository for leaning git :(
